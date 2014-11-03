@@ -1,4 +1,4 @@
 swt
 ===
 README
-Hier entsteht die README Datei mit nütlichen Informationen.
+Hier entsteht die README Datei mit nützlichen Informationen.
