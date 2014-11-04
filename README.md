@@ -1,4 +1,4 @@
 swt
 ===
 README
-Hier entsteht die README Datei mit nützlichen Informationen.
+Hier entsteht eine Homepage für das Modul Softwaretechnik 2014/2015
